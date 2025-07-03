@@ -25,7 +25,7 @@ This Bash script makes screen recording easy using `wf-recorder`. It checks if a
 * `hyprctl` (to list monitors)
 * `wofi` (for the monitor selection menu)
 * `libnotify` (for desktop notifications)
-* Linux with Hyprland Wayland
+* Linux with Hyprland (Wayland)
 
 ---
 
